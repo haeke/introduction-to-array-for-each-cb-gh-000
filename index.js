@@ -5,6 +5,8 @@ function doToElementsInArray(items, callback) {
 };
 
 // Add your changeCompletely() function here:
-function changeCompletely() {
-
+function changeCompletely(items) {
+  items.forEach((item) => {
+    item = 'antelope';
+  });
 };
