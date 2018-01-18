@@ -6,5 +6,5 @@ function doToElementsInArray(items, callback) {
 
 // Add your changeCompletely() function here:
 function changeCompletely() {
-  
+
 };
